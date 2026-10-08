@@ -36,7 +36,7 @@ module.exports = {
                 },
                 en: {
                         noLink: "× Baby, please provide a valid Facebook video link or reply to one!",
-                        error: "× Download error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        error: "× Download error: %1. Contact FARABI for help.\n•WhatsApp: 01836298139"
                 }
         },
 
